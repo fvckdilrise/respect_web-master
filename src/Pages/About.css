@@ -1,0 +1,13 @@
+.hero{
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 20px;
+    
+}
+
+.story{
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+
+}

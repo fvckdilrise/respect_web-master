@@ -1,0 +1,21 @@
+.summary{
+    background: white;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.row {
+    column-gap: 50px;
+}
+
+.title-page{
+    font-size: 20px;
+    font-weight: bold;
+    color: grey;
+}
+
+.col > h5{
+    font-weight: bold;
+}
+
